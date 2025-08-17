@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Erycka, currently a 2nd-year Computer Science Student. </br>
 I'm currently working on my VN otome game--Project:Incomplete Standing! (Title still Subject to Change.) </br>
-Currently Intrested in learning about Python🐍 & Ruby🔴!</br>
+Currently Interested in learning about Python🐍 & Ruby🔴!</br>
 </br>
 Languages I'm familiar with: JAVA, Ren'Py, HTML(Pseudo) & Style CSS! </br>
 
