@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Erycka, currently a 2nd-year Computer Science Student. </br>
 I'm currently working on my VN otome game--Title still Subject to Change. </br>
-Other than codinng, I like Drawing Digitally and Chinchillas >:33 </br>
+Other than coding, I like Drawing Digitally and Chinchillas >:33 </br>
 Currently Interested in learning about Python🐍 & mastering the JAVA language!</br>
 </br>
 Languages I'm familiar with: JAVA, Ren'Py, HTML(Pseudo) & Style CSS! </br>
