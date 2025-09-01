@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![giphy](https://github.com/user-attachments/assets/f4931c9b-9d8e-4ea5-a8bf-c0d87304aacb)](https://64.media.tumblr.com/2fb45dd64abcd41382c27e4ad47f2ebd/tumblr_nxapxqMHE21snc5kxo1_500.gif) </br>
+![tumblr_nxapxqMHE21snc5kxo1_500](https://github.com/user-attachments/assets/93c67758-4f1e-47c5-8976-4dee4ced30f9)</br>
 ┊ ✩  ┊   ✧   ┊   ┊ </br>
 ┊    ┊★      ┊   ✩⋆ </br>
 ┊    ┊       ⊹˚ ⁭ </br>     ⁭ ⁭ ⁭ ⁭ ⁭ ⁭ ⁭ ⁭
