@@ -15,15 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![c40db678aa354ba91257f6258a1521e1](https://github.com/user-attachments/assets/11dcf964-6a18-4398-a9ea-38ba351155e8)</br>
-┊ ✩  ┊   ✧   ┊   ┊ </br>
-┊    ┊★      ┊   ✩⋆ </br>
-┊    ┊       ⊹˚ ⁭ </br>     ⁭ ⁭ ⁭ ⁭ ⁭ ⁭ ⁭ ⁭
-✩⋆       ✮  </br>
-My name is Erycka, currently a 2nd-year Computer Science Student. </br>
-I'm currently working on EcoQuest--a Ren'Py VN for our proposed STS project. </br>
-Other than coding, I like Drawing Digitally and Chinchillas >:33 </br>
-Currently Interested in learning about Python🐍 & mastering the JAVA🍵 language!</br>
-</br>
-Languages I'm familiar with: JAVA, Ren'Py, HTML(Pseudo) & Style CSS! </br>
-
-
+<p align="center">
+  ![c40db678aa354ba91257f6258a1521e1](https://github.com/user-attachments/assets/11dcf964-6a18-4398-a9ea-38ba351155e8](<image-link>)
+  <br>
+  ★・゜・。。・゜★
+  <br>
+  <br>
+  ★゜・。。・゜★
+  <br>
+  <br>
+  ☆゜・。。・゜★
+  <br>
+  <br>
+  <br>
+  My name is Erycka, currently a 2nd-year Computer Science Student. <br>
+  I'm currently working on EcoQuest—a Ren'Py VN for our proposed STS project. <br>
+  Other than coding, I like Drawing Digitally & Chinchillas >:33 <br>
+  Currently Interested in learning about Python 🐍 & mastering the JAVA 💻 language! <br>
+  <br>
+  Languages I'm familiar with: JAVA, Ren'Py, HTML(Pseudo) & Style CSS!
+</p>
