@@ -1,4 +1,4 @@
-## Designer by heart, programmer by choice.
+## Designer by heart, Programmer by choice.
 
 <!--
 **Chiuumin/Chiuumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
