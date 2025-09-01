@@ -18,16 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <br>
-  ★・゜・。。・゜★
-  <br>
-  <br>
-  ★゜・。。・゜★
-  <br>
-  <br>
-  ☆゜・。。・゜★
-  <br>
-  <br>
-  <br>
+
   My name is Erycka, currently a 2nd-year Computer Science Student. <br>
   I'm currently working on EcoQuest—a Ren'Py VN for our proposed STS project. <br>
   Other than coding, I like Drawing Digitally & Chinchillas >:33 <br>
