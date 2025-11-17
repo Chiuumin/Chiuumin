@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=flat-square&logo=ClipStudioPaint&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chiuumin&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Chiuumin&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiuumin&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Chiuumin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Chiuumin&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiuumin&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chiuumin&icon=0&color=0)](https://visitcount.itsvg.in)
