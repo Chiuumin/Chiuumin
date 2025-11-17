@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  My name is Erycka, I'm currently a 2nd-year Computer Science Student. <br>
-  I'm currently working on EcoQuest—a Ren'Py VN for our proposed STS project. <br>
+  My name is Erycka, and I'm currently a 2nd-year Computer Science Student. <br>
+  I try to study SpringBoot & CSS in my spare time!. <br>
   Other than coding, I like Drawing Digitally & Chinchillas >:33 <br>
   Currently Interested in learning about Python 🐍 & mastering the JAVA 💻 language! <br>
   <br>
