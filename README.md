@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  My name is Erycka, and I'm currently a 2nd-year Computer Science Student. <br>
-  I'm on semester break, currently taking the CS50x2025 course :) <br>
-  Other than coding, I like Drawing Digitally & Chinchillas >:33 <br>
-  Currently Interested in learning about Python 🐍 & mastering the JAVA 💻 language! <br>
   <br>
   Languages I'm familiar with: JAVA, Ren'Py, HTML(Pseudo) & Style CSS!
 </p>
