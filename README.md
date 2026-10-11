@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <br>
-  Languages I'm familiar with: JAVA, Ren'Py, HTML(Pseudo) & Style CSS!
+  carrot
 </p>
 
 
